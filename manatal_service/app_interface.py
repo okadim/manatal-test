@@ -3,7 +3,7 @@ import requests
 import time
 import pickle
 
-# Base URL of your FastAPI app (update this if running on a different port)
+# Base URL of FastAPI app
 BASE_URL = "http://127.0.0.1:8000"
 
 st.title("Job Management and Candidate Matching Interface")
