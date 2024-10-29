@@ -2,7 +2,7 @@ import random
 import json
 import datetime
 
-# Load your existing candidate profiles
+# Load the existing candidate profiles
 with open('data/generated_candidates.json', 'r') as file:
     existing_candidates = json.load(file)
 
