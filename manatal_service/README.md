@@ -32,6 +32,3 @@ Please wait patiently till the embeddings end running and till service and strea
 FastAPI Documentation: You can access the FastAPI Swagger UI for API documentation at http://localhost:8000/docs.
 Streamlit Interface: You can access the Streamlit UI at http://localhost:8501.
 
-### Additional Information
-To edit the data (e.g., job postings or candidates), modify the JSON files under the /data directory.
-The generate_100k_mock.py script can be used to generate mock candidate data for testing purposes.
