@@ -6,7 +6,7 @@ import random
 import openai
 
 # Set OpenAI API key (ensure it's securely stored)
-openai.api_key = "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"
+openai.api_key = "i-could-have-create-an-env-file-but-lazy-today"
 
 # Example lists of names, addresses, and job titles
 # Example lists of names
