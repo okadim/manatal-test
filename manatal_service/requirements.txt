@@ -1,0 +1,13 @@
+faiss_cpu
+fastapi
+flashtext
+numpy
+pydantic
+python-dotenv
+requests
+sentence_transformers
+spacy
+streamlit
+tqdm
+uvicorn
+

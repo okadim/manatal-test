@@ -1,0 +1,3660 @@
+{
+    "jobs": [
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "Design engaging and user-centered experiences for web, Android, and iOS platforms.\nDevelop and maintain scalable design systems (e.g., Material Design), ensuring consistency across all platforms.\nCollaborate closely with cross-functional teams, including product managers, developers, and marketers, to ensure smooth implementation of designs.\nEnsure that designs comply with accessibility standards\nLeverage data and user feedback to iterate on designs and increase user engagement.\nBuild and refine design systems and standards that are easy to scale across products.\nStay adaptable and show ownership in a rapidly changing environment, driving initiatives forward.\n4+ years of experience in product design, with a focus on creating systems that scale.",
+            "budget": {
+                "min": "3000",
+                "max": "4500",
+                "currency": "USD"
+            },
+            "location": "Pyongyang",
+            "company_name": "Physitrack",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "product motion graphics",
+                " interactions and animations",
+                " design systems",
+                " Material Design.\nStrong portfolio",
+                " web",
+                " Android",
+                " and iOS design",
+                " cross-functional teams",
+                "  Figma",
+                " Adobe Illustrator."
+            ],
+            "extracted_text": null,
+            "job_id": 1,
+            "extracted_skills": [
+                "AWS",
+                "MongoDB",
+                "React",
+                "JavaScript",
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Master's Degree"
+            ],
+            "extracted_experience": 4,
+            "extracted_responsibilities": [
+                "We are a FinTech startup looking for a talented Full",
+                "Stack Developer to join our team. You will be responsible for developing and maintaining web applications using JavaScript frameworks and backend technologies. Proficiency in React, Node.js, and experience with NoSQL databases like MongoDB are required. Knowledge of AWS services and DevOps practices is a plus. At least 4 years of full",
+                "stack development experience and a Bachelor's degree in Computer Science or equivalent are needed."
+            ]
+        },
+        {
+            "job_title": "Senior Data Scientist",
+            "job_description": "Set, define, and own the data science roadmap\nBuild, maintain, and enhance Manatal core features focus on\n\ufeff- CV/Resume parsing in multiple languages \n\ufeff- Candidate recommendation engine \n\ufeff- Social media enrichment for candidates \nIndependently manage each part of a project life cycle, including ad-hoc exploration, preparation of training data, model development, and production deployment \nDesign, prototype, and implement solutions across several domains \nHelp define and implement a framework of continual innovation \nPartner with engineers to develop ML projects, and maintain high system availability and reliability \n4+ years of experience.\n\nBachelor in Mathematics, Statistics, or Computer Science is required or a Master's degree in a quantitative scientific discipline is strongly desired ",
+            "budget": {
+                "min": "3000",
+                "max": "5000",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Statistics",
+                "Advanced SQL",
+                " data mining",
+                " data cleaning",
+                " Python",
+                " data science",
+                " NumPy",
+                " Pandas",
+                " NLP libraries",
+                " Tensorflow",
+                " Scikit-learn",
+                " machine learning algorithms",
+                " CI/CD",
+                " cloud infrastructure tools",
+                " AWS",
+                " EC2",
+                " S3",
+                " Lambda",
+                " Data Engineering"
+            ],
+            "extracted_text": null,
+            "job_id": 2,
+            "extracted_skills": [
+                "Statistics",
+                "Advanced SQL",
+                " data mining",
+                " data cleaning",
+                " Python",
+                " data science",
+                " NumPy",
+                " Pandas",
+                " NLP libraries",
+                " Tensorflow",
+                " Scikit-learn",
+                " machine learning algorithms",
+                " CI/CD",
+                " cloud infrastructure tools",
+                " AWS",
+                " EC2",
+                " S3",
+                " Lambda",
+                " Data Engineering"
+            ],
+            "extracted_education": [
+                "Master's Degree",
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 4,
+            "extracted_responsibilities": [
+                "Set, define, and own the data science roadmap",
+                "Build, maintain, and enhance Manatal core features focus on",
+                "\ufeff",
+                "CV/Resume parsing in multiple languages",
+                "\ufeff",
+                "Candidate recommendation engine",
+                "\ufeff",
+                "Social media enrichment for candidates",
+                "Independently manage each part of a project life cycle, including ad",
+                "hoc exploration, preparation of training data, model development, and production deployment",
+                "Design, prototype, and implement solutions across several domains",
+                "Help define and implement a framework of continual innovation",
+                "Partner with engineers to develop ML projects, and maintain high system availability and reliability",
+                "4+ years of experience.",
+                "Bachelor in Mathematics, Statistics, or Computer Science is required or a Master's degree in a quantitative scientific discipline is strongly desired"
+            ]
+        },
+        {
+            "job_title": "Supply Chain Manager - National (FMCG)",
+            "job_description": "Oversee national supply chain operations, including demand forecasting, procurement, inventory management, logistics, and distribution.\nEnsure optimal inventory levels across the country to meet demand without overstocking.\nDevelop and maintain relationships with suppliers and negotiate contracts to ensure cost-effective sourcing of raw materials and products.\nManage national logistics networks, including transport, warehousing, and last-mile distribution.\nMonitor supply chain expenses and develop strategies to reduce costs while maintaining high service levels.\nAdjust supply chain strategies based on fluctuations in consumer demand, promotions, and market conditions.\nEnsure compliance with local and international regulations related to procurement, transportation, and warehousing.\nLead, mentor, and develop supply chain teams, including regional managers and staff at various locations.\nLeverage automation to enhance efficiency in warehousing and logistics.\n\nMaster degree Industrial Engineering with GPA min 3.00 \nMinimum experience of 8 years at managerial level in supply chain field ",
+            "budget": {
+                "min": "980",
+                "max": "2000",
+                "currency": "USD"
+            },
+            "location": "Jakarta",
+            "company_name": "PT. PERSOLKELLY",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Inventory Management",
+                " Product Forecasting",
+                " Warehouse Management",
+                " Logistic Operation",
+                " Distribution System (software application",
+                " mapping",
+                " transportation) "
+            ],
+            "extracted_text": null,
+            "job_id": 3,
+            "extracted_skills": [
+                "Inventory Management",
+                "Procurement",
+                "Forecasting",
+                "Logistics",
+                "Inventory Management",
+                " Product Forecasting",
+                " Warehouse Management",
+                " Logistic Operation",
+                " Distribution System (software application",
+                " mapping",
+                " transportation) "
+            ],
+            "extracted_education": [
+                "Master's Degree"
+            ],
+            "extracted_experience": 8,
+            "extracted_responsibilities": [
+                "Oversee national supply chain operations, including demand forecasting, procurement, inventory management, logistics, and distribution.",
+                "Ensure optimal inventory levels across the country to meet demand without overstocking.",
+                "Develop and maintain relationships with suppliers and negotiate contracts to ensure cost",
+                "effective sourcing of raw materials and products.",
+                "Manage national logistics networks, including transport, warehousing, and last",
+                "mile distribution.",
+                "Monitor supply chain expenses and develop strategies to reduce costs while maintaining high service levels.",
+                "Adjust supply chain strategies based on fluctuations in consumer demand, promotions, and market conditions.",
+                "Ensure compliance with local and international regulations related to procurement, transportation, and warehousing.",
+                "Lead, mentor, and develop supply chain teams, including regional managers and staff at various locations.",
+                "Leverage automation to enhance efficiency in warehousing and logistics.",
+                "Master degree Industrial Engineering with GPA min 3.00",
+                "Minimum experience of 8 years at managerial level in supply chain field"
+            ]
+        },
+        {
+            "job_title": "Marketing Manager",
+            "job_description": "We are seeking an experienced Marketing Manager to lead our retail marketing initiatives. The candidate will develop and implement marketing strategies to increase brand awareness and sales. Must have strong knowledge of digital marketing tools, including SEO, SEM, and social media platforms. Excellent communication and project management skills are required. A minimum of 1 year of marketing experience",
+            "budget": {
+                "min": "90000",
+                "max": "120000",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "FashionForward Retailers",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Project Management"
+            ],
+            "extracted_text": null,
+            "job_id": 4,
+            "extracted_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Brand Management",
+                "Sales Strategies"
+            ],
+            "extracted_education": [
+                "Bachelor's in Marketing",
+                "Certification in Digital Marketing"
+            ],
+            "extracted_experience": "1-2 years in marketing roles",
+            "extracted_responsibilities": [
+                "Increase brand awareness",
+                "Develop marketing strategies",
+                "Lead team"
+            ]
+        },
+        {
+            "job_title": "Barber",
+            "job_description": "We are seeking an experienced Barber to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "51056",
+                "max": "121446",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "Future Solutions",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 5,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Barber to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Blockchain Developer",
+            "job_description": "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "57988",
+                "max": "102963",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "InnovateX",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_text": null,
+            "job_id": 6,
+            "extracted_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "We are seeking an experienced UX/UI Designer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54716",
+                "max": "100781",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "AlphaTech",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Figma",
+                "Sketch",
+                "User Research",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "extracted_text": null,
+            "job_id": 7,
+            "extracted_skills": [
+                "Figma",
+                "Sketch",
+                "User Research",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced UX/UI Designer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Trader",
+            "job_description": "We are seeking an experienced Trader to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "55430",
+                "max": "101228",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "AlphaTech",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 8,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Trader to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quality Assurance Engineer",
+            "job_description": "We are seeking an experienced Quality Assurance Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "55438",
+                "max": "144968",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "InnovateX",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Test Automation",
+                "Selenium",
+                "Java",
+                "Bug Tracking",
+                "Regression Testing"
+            ],
+            "extracted_text": null,
+            "job_id": 9,
+            "extracted_skills": [
+                "Test Automation",
+                "Selenium",
+                "Java",
+                "Bug Tracking",
+                "Regression Testing"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quality Assurance Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Supply Planner",
+            "job_description": "We are seeking an experienced Supply Planner to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "65451",
+                "max": "105315",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "SmartWare",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 10,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Supply Planner to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "51386",
+                "max": "143312",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "SmartWare",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 11,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Operations Manager",
+            "job_description": "We are seeking an experienced Operations Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "68953",
+                "max": "132530",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "DevWorks",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 12,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Operations Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Blockchain Developer",
+            "job_description": "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "59095",
+                "max": "120932",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_text": null,
+            "job_id": 13,
+            "extracted_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Oil Engineer",
+            "job_description": "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "83584",
+                "max": "124670",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "SmartWare",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 14,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Sales Executive",
+            "job_description": "We are seeking an experienced Sales Executive to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "61508",
+                "max": "119001",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "SmartWare",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 15,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Sales Executive to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "70123",
+                "max": "146743",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "TechCorp",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 16,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "job_description": "We are seeking an experienced Full Stack Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "61174",
+                "max": "125030",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "BetaSystems",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "HTML/CSS",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 17,
+            "extracted_skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "HTML/CSS",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Full Stack Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Environmental Consultant",
+            "job_description": "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "53690",
+                "max": "134350",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "TechCorp",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 18,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "AI Engineer",
+            "job_description": "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "72516",
+                "max": "108366",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "DevWorks",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_text": null,
+            "job_id": 19,
+            "extracted_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "job_description": "We are seeking an experienced Data Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "80851",
+                "max": "145732",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "BetaSystems",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "SQL",
+                "Excel",
+                "Data Visualization",
+                "Statistics",
+                "Python"
+            ],
+            "extracted_text": null,
+            "job_id": 20,
+            "extracted_skills": [
+                "SQL",
+                "Excel",
+                "Data Visualization",
+                "Statistics",
+                "Python"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Data Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Legal Counsel",
+            "job_description": "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50036",
+                "max": "111918",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "InnovateX",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 21,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quantitative Analyst",
+            "job_description": "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "85050",
+                "max": "144702",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 22,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Customer Success Manager",
+            "job_description": "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "61937",
+                "max": "112393",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Future Solutions",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 23,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Marketing Manager",
+            "job_description": "We are seeking an experienced Marketing Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "71484",
+                "max": "113703",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "TechCorp",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Content Strategy",
+                "Social Media",
+                "Communication"
+            ],
+            "extracted_text": null,
+            "job_id": 24,
+            "extracted_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Content Strategy",
+                "Social Media",
+                "Communication"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Marketing Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Oil Engineer",
+            "job_description": "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "61016",
+                "max": "135610",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "SmartWare",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 25,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Sales Executive",
+            "job_description": "We are seeking an experienced Sales Executive to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "87081",
+                "max": "106254",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "Future Solutions",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 26,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Sales Executive to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Blockchain Developer",
+            "job_description": "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "70687",
+                "max": "137284",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_text": null,
+            "job_id": 27,
+            "extracted_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Data Engineer",
+            "job_description": "We are seeking an experienced Data Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "69762",
+                "max": "117052",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "AlphaTech",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Python",
+                "ETL",
+                "SQL",
+                "Big Data",
+                "AWS"
+            ],
+            "extracted_text": null,
+            "job_id": 28,
+            "extracted_skills": [
+                "Python",
+                "ETL",
+                "SQL",
+                "Big Data",
+                "AWS"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Data Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Talent Acquisition",
+            "job_description": "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "79040",
+                "max": "125583",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 29,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Marketing Manager",
+            "job_description": "We are seeking an experienced Marketing Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54909",
+                "max": "125001",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Content Strategy",
+                "Social Media",
+                "Communication"
+            ],
+            "extracted_text": null,
+            "job_id": 30,
+            "extracted_skills": [
+                "Digital Marketing",
+                "SEO",
+                "Content Strategy",
+                "Social Media",
+                "Communication"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Marketing Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Public Relations Specialist",
+            "job_description": "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "62560",
+                "max": "101236",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "AlphaTech",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 31,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "ML Engineer",
+            "job_description": "We are seeking an experienced ML Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "74144",
+                "max": "137538",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Future Solutions",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Python",
+                "Scikit-Learn",
+                "Model Deployment",
+                "Machine Learning",
+                "AWS"
+            ],
+            "extracted_text": null,
+            "job_id": 32,
+            "extracted_skills": [
+                "Python",
+                "Scikit-Learn",
+                "Model Deployment",
+                "Machine Learning",
+                "AWS"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced ML Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quantitative Analyst",
+            "job_description": "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "85361",
+                "max": "110124",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "AlphaTech",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 33,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Biotech Researcher",
+            "job_description": "We are seeking an experienced Biotech Researcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "60199",
+                "max": "102544",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 34,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Biotech Researcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Digital Transformation Consultant",
+            "job_description": "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "67375",
+                "max": "122951",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "InnovateX",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 35,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Full Stack Developer",
+            "job_description": "We are seeking an experienced Full Stack Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "66083",
+                "max": "101941",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "HTML/CSS",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 36,
+            "extracted_skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "HTML/CSS",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Full Stack Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Environmental Consultant",
+            "job_description": "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "87207",
+                "max": "145973",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "AlphaTech",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 37,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Product Manager",
+            "job_description": "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "73124",
+                "max": "104571",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_text": null,
+            "job_id": 38,
+            "extracted_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Senior Solution Architect",
+            "job_description": "We are seeking an experienced Senior Solution Architect to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "69249",
+                "max": "140719",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 39,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Senior Solution Architect to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Judoka",
+            "job_description": "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "65077",
+                "max": "102251",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 40,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Lead Data Scientist",
+            "job_description": "We are seeking an experienced Lead Data Scientist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "74885",
+                "max": "124957",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "SmartWare",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 41,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Lead Data Scientist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "HR",
+            "job_description": "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "59985",
+                "max": "102164",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "BetaSystems",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 42,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Public Relations Specialist",
+            "job_description": "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "57280",
+                "max": "101473",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 43,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "HR",
+            "job_description": "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "80978",
+                "max": "134387",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "TechCorp",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 44,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Content Strategist",
+            "job_description": "We are seeking an experienced Content Strategist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "87820",
+                "max": "149360",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "AlphaTech",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 45,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Content Strategist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quantitative Analyst",
+            "job_description": "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "79064",
+                "max": "135907",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 46,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Legal Counsel",
+            "job_description": "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "89262",
+                "max": "110795",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "TechCorp",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 47,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Growth Hacker",
+            "job_description": "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "83190",
+                "max": "141591",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 48,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Business Development Manager",
+            "job_description": "We are seeking an experienced Business Development Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "74647",
+                "max": "118852",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 49,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Business Development Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "IOT Engineer",
+            "job_description": "We are seeking an experienced IOT Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50623",
+                "max": "141154",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 50,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced IOT Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "M&A Analyst",
+            "job_description": "We are seeking an experienced M&A Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "56373",
+                "max": "148155",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "BetaSystems",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 51,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced M&A Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "87160",
+                "max": "114322",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 52,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Environmental Consultant",
+            "job_description": "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "68341",
+                "max": "132896",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 53,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "AI Engineer",
+            "job_description": "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "70034",
+                "max": "149946",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_text": null,
+            "job_id": 54,
+            "extracted_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quantitative Analyst",
+            "job_description": "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "52229",
+                "max": "135059",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 55,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Digital Transformation Consultant",
+            "job_description": "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50738",
+                "max": "145404",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 56,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Growth Hacker",
+            "job_description": "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "57497",
+                "max": "102375",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "BetaSystems",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 57,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Public Relations Specialist",
+            "job_description": "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "64229",
+                "max": "108875",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 58,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "AI Engineer",
+            "job_description": "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "70941",
+                "max": "149633",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "Future Solutions",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_text": null,
+            "job_id": 59,
+            "extracted_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Business Development Manager",
+            "job_description": "We are seeking an experienced Business Development Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "77507",
+                "max": "139190",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 60,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Business Development Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Cybersecurity Specialist",
+            "job_description": "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54775",
+                "max": "131807",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "SmartWare",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_text": null,
+            "job_id": 61,
+            "extracted_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "ML Engineer",
+            "job_description": "We are seeking an experienced ML Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "84283",
+                "max": "133542",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "InnovateX",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "Scikit-Learn",
+                "Model Deployment",
+                "Machine Learning",
+                "AWS"
+            ],
+            "extracted_text": null,
+            "job_id": 62,
+            "extracted_skills": [
+                "Python",
+                "Scikit-Learn",
+                "Model Deployment",
+                "Machine Learning",
+                "AWS"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced ML Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Blockchain Developer",
+            "job_description": "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "58758",
+                "max": "130913",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "AlphaTech",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_text": null,
+            "job_id": 63,
+            "extracted_skills": [
+                "Solidity",
+                "Ethereum",
+                "Smart Contracts",
+                "Cryptography",
+                "Python"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Blockchain Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Cybersecurity Specialist",
+            "job_description": "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "57196",
+                "max": "108863",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "TechCorp",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_text": null,
+            "job_id": 64,
+            "extracted_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Senior Solution Architect",
+            "job_description": "We are seeking an experienced Senior Solution Architect to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "58252",
+                "max": "122280",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "Future Solutions",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 65,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Senior Solution Architect to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "59701",
+                "max": "143762",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 66,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "55051",
+                "max": "103041",
+                "currency": "USD"
+            },
+            "location": "Chicago, IL",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 67,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Public Relations Specialist",
+            "job_description": "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "80443",
+                "max": "103577",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 68,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "We are seeking an experienced UX/UI Designer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50762",
+                "max": "131952",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "Future Solutions",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Figma",
+                "Sketch",
+                "User Research",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "extracted_text": null,
+            "job_id": 69,
+            "extracted_skills": [
+                "Figma",
+                "Sketch",
+                "User Research",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced UX/UI Designer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Butcher",
+            "job_description": "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "76313",
+                "max": "124179",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 70,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Quantitative Analyst",
+            "job_description": "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "53167",
+                "max": "112406",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "TechCorp",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 71,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Quantitative Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Oil Engineer",
+            "job_description": "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "73429",
+                "max": "135797",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "AlphaTech",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 72,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Biotech Researcher",
+            "job_description": "We are seeking an experienced Biotech Researcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "84274",
+                "max": "138726",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "Future Solutions",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 73,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Biotech Researcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Judoka",
+            "job_description": "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "78873",
+                "max": "112730",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 74,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Operations Manager",
+            "job_description": "We are seeking an experienced Operations Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "68131",
+                "max": "124592",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 75,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Operations Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Judoka",
+            "job_description": "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "56757",
+                "max": "106108",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 76,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Public Relations Specialist",
+            "job_description": "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "85854",
+                "max": "126888",
+                "currency": "USD"
+            },
+            "location": "Boston, MA",
+            "company_name": "BetaSystems",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 77,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Public Relations Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Judoka",
+            "job_description": "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "65959",
+                "max": "133194",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 78,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Judoka to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Customer Success Manager",
+            "job_description": "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "71719",
+                "max": "118452",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 79,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Growth Hacker",
+            "job_description": "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "82526",
+                "max": "100359",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "DevWorks",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 80,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Growth Hacker to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Supply Planner",
+            "job_description": "We are seeking an experienced Supply Planner to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54682",
+                "max": "122306",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "DevWorks",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 81,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Supply Planner to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "53475",
+                "max": "136522",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 82,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Butcher",
+            "job_description": "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "83475",
+                "max": "146805",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "SmartWare",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 83,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Supply Chain Analyst",
+            "job_description": "We are seeking an experienced Supply Chain Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54881",
+                "max": "109088",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 84,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Supply Chain Analyst to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Trader",
+            "job_description": "We are seeking an experienced Trader to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "67287",
+                "max": "115238",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "DevWorks",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 85,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Trader to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "HR",
+            "job_description": "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "60150",
+                "max": "136357",
+                "currency": "USD"
+            },
+            "location": "Dallas, TX",
+            "company_name": "BetaSystems",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 86,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced HR to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Cybersecurity Specialist",
+            "job_description": "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "81565",
+                "max": "126418",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_text": null,
+            "job_id": 87,
+            "extracted_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Cybersecurity Specialist",
+            "job_description": "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "86257",
+                "max": "140282",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "DevWorks",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_text": null,
+            "job_id": 88,
+            "extracted_skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Risk Assessment",
+                "Incident Response",
+                "Encryption"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Cybersecurity Specialist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Product Manager",
+            "job_description": "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50719",
+                "max": "108618",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "NextGen Innovations",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_text": null,
+            "job_id": 89,
+            "extracted_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Talent Acquisition",
+            "job_description": "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "79034",
+                "max": "123496",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 90,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Digital Transformation Consultant",
+            "job_description": "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "74554",
+                "max": "123354",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "AlphaTech",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 91,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Oil Engineer",
+            "job_description": "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "71223",
+                "max": "123531",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Future Solutions",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 92,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Oil Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Legal Counsel",
+            "job_description": "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "63944",
+                "max": "146886",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "BetaSystems",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 93,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Legal Counsel to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Customer Success Manager",
+            "job_description": "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "67415",
+                "max": "125907",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "AlphaTech",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 94,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Customer Success Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "AI Engineer",
+            "job_description": "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "52904",
+                "max": "133415",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "SmartWare",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_text": null,
+            "job_id": 95,
+            "extracted_skills": [
+                "Python",
+                "TensorFlow",
+                "Machine Learning",
+                "Deep Learning",
+                "Computer Vision"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced AI Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Python Software Engineer",
+            "job_description": "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "69327",
+                "max": "114764",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "SmartWare",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 96,
+            "extracted_skills": [
+                "Python",
+                "Python",
+                "Django",
+                "Flask",
+                "APIs",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Python Software Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Data Engineer",
+            "job_description": "We are seeking an experienced Data Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "50507",
+                "max": "138200",
+                "currency": "USD"
+            },
+            "location": "New York, NY",
+            "company_name": "InnovateX",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Python",
+                "ETL",
+                "SQL",
+                "Big Data",
+                "AWS"
+            ],
+            "extracted_text": null,
+            "job_id": 97,
+            "extracted_skills": [
+                "Python",
+                "ETL",
+                "SQL",
+                "Big Data",
+                "AWS"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Data Engineer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Environmental Consultant",
+            "job_description": "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "86279",
+                "max": "120648",
+                "currency": "USD"
+            },
+            "location": "Seattle, WA",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 98,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Environmental Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Butcher",
+            "job_description": "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "54279",
+                "max": "122696",
+                "currency": "USD"
+            },
+            "location": "Los Angeles, CA",
+            "company_name": "AlphaTech",
+            "employment_type": "Part-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 99,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Digital Transformation Consultant",
+            "job_description": "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "74563",
+                "max": "143882",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "InnovateX",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 100,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Data Scientist",
+            "job_description": "We are seeking an experienced Data Scientist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "61946",
+                "max": "108444",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "InnovateX",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Python",
+                "Machine Learning",
+                "Data Analysis",
+                "Statistics",
+                "SQL"
+            ],
+            "extracted_text": null,
+            "job_id": 101,
+            "extracted_skills": [
+                "Python",
+                "Machine Learning",
+                "Data Analysis",
+                "Statistics",
+                "SQL"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Data Scientist to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Product Manager",
+            "job_description": "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "63752",
+                "max": "100391",
+                "currency": "USD"
+            },
+            "location": "Miami, FL",
+            "company_name": "Gamma Enterprises",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_text": null,
+            "job_id": 102,
+            "extracted_skills": [
+                "Agile",
+                "Product Roadmap",
+                "Stakeholder Management",
+                "Communication",
+                "Data Analysis"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Product Manager to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Butcher",
+            "job_description": "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "66755",
+                "max": "116932",
+                "currency": "USD"
+            },
+            "location": "Austin, TX",
+            "company_name": "Delta Dynamics",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 103,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Butcher to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Talent Acquisition",
+            "job_description": "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "67678",
+                "max": "112072",
+                "currency": "USD"
+            },
+            "location": "San Francisco, CA",
+            "company_name": "BetaSystems",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_text": null,
+            "job_id": 104,
+            "extracted_skills": [
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Talent Acquisition to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "job_description": "We are seeking an experienced Software Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem-solving skills and the ability to communicate effectively are required.",
+            "budget": {
+                "min": "57004",
+                "max": "123234",
+                "currency": "USD"
+            },
+            "location": "Denver, CO",
+            "company_name": "AlphaTech",
+            "employment_type": "Contract",
+            "required_skills": [
+                "Java",
+                "C++",
+                "Git",
+                "Software Design",
+                "Problem Solving"
+            ],
+            "extracted_text": null,
+            "job_id": 105,
+            "extracted_skills": [
+                "Java",
+                "C++",
+                "Git",
+                "Software Design",
+                "Problem Solving"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "We are seeking an experienced Software Developer to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
+                "solving skills and the ability to communicate effectively are required."
+            ]
+        },
+        {
+            "job_title": "Senior Data Engineer",
+            "job_description": "- Build ETLs using Airflow.\n- Maintain Data Bases and insure Data strategy.\n- Build SQL queries to answer needs of teams.\n- Create Kafka flows",
+            "budget": {
+                "min": "2000",
+                "max": "2974",
+                "currency": "USD"
+            },
+            "location": "Casablanca",
+            "company_name": "Unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "SQL",
+                " Airflow",
+                " Data Engineering",
+                " ETL",
+                " Data Management"
+            ],
+            "extracted_text": null,
+            "job_id": 106,
+            "extracted_skills": [
+                "SQL",
+                " Airflow",
+                " Data Engineering",
+                " ETL",
+                " Data Management"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Build ETLs using Airflow.",
+                "Maintain Data Bases and insure Data strategy.",
+                "Build SQL queries to answer needs of teams.",
+                "Create Kafka flows"
+            ]
+        },
+        {
+            "job_title": "Senior Data Engineer",
+            "job_description": "- Build ETLs using Airflow.\n- Maintain Data Bases and insure Data strategy.\n- Build SQL queries to answer needs of teams.\n- Create Kafka flows\n",
+            "budget": {
+                "min": "2000",
+                "max": "2974",
+                "currency": "USD"
+            },
+            "location": "Casablanca",
+            "company_name": "Unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "SQL",
+                " Airflow",
+                " Data Engineering",
+                " ETL",
+                " Data Management",
+                " Big Data Processing"
+            ],
+            "extracted_text": null,
+            "job_id": 107,
+            "extracted_skills": [
+                "SQL",
+                " Airflow",
+                " Data Engineering",
+                " ETL",
+                " Data Management",
+                " Big Data Processing"
+            ],
+            "extracted_education": [],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Build ETLs using Airflow.",
+                "Maintain Data Bases and insure Data strategy.",
+                "Build SQL queries to answer needs of teams.",
+                "Create Kafka flows"
+            ]
+        },
+        {
+            "job_title": "HR recruiter",
+            "job_description": "Manage the recruitment process, from job posting to candidate selection and onboarding.\nEnsure compliance with UAE labor laws and HR best practices.\nDevelop and maintain relationships with hiring managers to understand staffing needs.\nConduct interviews and assessments to identify top talent.\nSupport various HR initiatives and projects as needed.\n\nEducation: Bachelor\u2019s degree in Human Resources, Business Administration, or a related field.\n\nMinimum of 4 years as a Recruiter or HR Specialist, preferably within the UAE.",
+            "budget": {
+                "min": "2000",
+                "max": "2974",
+                "currency": "USD"
+            },
+            "location": "Casablanca",
+            "company_name": "Unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "labor laws",
+                " HR best practices."
+            ],
+            "extracted_text": null,
+            "job_id": 108,
+            "extracted_skills": [
+                "labor laws",
+                "  HR best practices."
+            ],
+            "extracted_education": [
+                "Bachelor"
+            ],
+            "extracted_experience": "4",
+            "extracted_responsibilities": [
+                "Manage the recruitment process",
+                " from job posting to candidate selection and onboarding.",
+                " Ensure compliance with UAE labor laws and HR best practices.",
+                " Develop and maintain relationships with hiring managers to understand staffing needs.",
+                " Conduct interviews and assessments to identify top talent.",
+                " Support various HR initiatives and projects as needed.",
+                " Education: Bachelor\u2019s degree in Human Resources",
+                " Business Administration",
+                " or a related field.",
+                " Minimum of 4 years as a Recruiter or HR Specialist",
+                " preferably within the UAE."
+            ]
+        },
+        {
+            "job_title": "HR recruiter",
+            "job_description": "Manage the recruitment process, from job posting to candidate selection and onboarding.\nEnsure compliance with UAE labor laws and HR best practices.\nDevelop and maintain relationships with hiring managers to understand staffing needs.\nConduct interviews and assessments to identify top talent.\nSupport various HR initiatives and projects as needed.\n\nEducation: Bachelor\u2019s degree in Human Resources, Business Administration, or a related field.\n\nMinimum of 4 years as a Recruiter or HR Specialist, preferably within the UAE.",
+            "budget": {
+                "min": "2000",
+                "max": "2974",
+                "currency": "USD"
+            },
+            "location": "Casablanca",
+            "company_name": "Unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "labor laws",
+                " HR best practices."
+            ],
+            "extracted_text": null,
+            "job_id": 109,
+            "extracted_skills": [
+                "labor laws",
+                " HR best practices."
+            ],
+            "extracted_education": [
+                "Other Degree"
+            ],
+            "extracted_experience": 4,
+            "extracted_responsibilities": [
+                "Manage the recruitment process, from job posting to candidate selection and onboarding.",
+                "Ensure compliance with UAE labor laws and HR best practices.",
+                "Develop and maintain relationships with hiring managers to understand staffing needs.",
+                "Conduct interviews and assessments to identify top talent.",
+                "Support various HR initiatives and projects as needed.",
+                "Education: Bachelor\u2019s degree in Human Resources, Business Administration, or a related field.",
+                "Minimum of 4 years as a Recruiter or HR Specialist, preferably within the UAE."
+            ]
+        },
+        {
+            "job_title": "Full-Stack Developer",
+            "job_description": "We are a FinTech startup looking for a talented Full-Stack Developer to join our team. You will be responsible for developing and maintaining web applications using JavaScript frameworks and backend technologies. Proficiency in React, Node.js, and experience with NoSQL databases like MongoDB are required. Knowledge of AWS services and DevOps practices is a plus. At least 4 years of full-stack development experience and a Bachelor's degree in Computer Science or equivalent are needed.",
+            "budget": {
+                "min": "95000",
+                "max": "125000",
+                "currency": "USD"
+            },
+            "location": "Remote",
+            "company_name": "FinNext Solutions",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "extracted_text": null,
+            "job_id": 110,
+            "extracted_skills": [
+                "AWS",
+                "MongoDB",
+                "React",
+                "JavaScript",
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 4,
+            "extracted_responsibilities": [
+                "We are a FinTech startup looking for a talented Full",
+                "Stack Developer to join our team. You will be responsible for developing and maintaining web applications using JavaScript frameworks and backend technologies. Proficiency in React, Node.js, and experience with NoSQL databases like MongoDB are required. Knowledge of AWS services and DevOps practices is a plus. At least 4 years of full",
+                "stack development experience and a Bachelor's degree in Computer Science or equivalent are needed."
+            ]
+        },
+        {
+            "job_title": "HR Recruiter - Medical Field",
+            "job_description": "A Bachelor\u2019s Degree in related field or its equivalent.\n\nProven work experience of 2 to 3 years as a HR recruiter or similar role.\n\nCo-ordinate with the department in chargers and the candidates regarding for the available schedule for the Interviews.\n\u2022 Source potential candidates from various online channels (e.g. social media and professional platforms like Indeed and Linkedin)\n\u2022 Screen incoming resumes and application forms\n\u2022 Interview candidates (via telephonic Interview, Virtual Interview and in-person)\n\u2022 Advertise job openings on company\u2019s careers page, social media, job boards and internally\n\u2022 Provide shortlists of qualified candidates to hiring managers\n\u2022 Send job offer emails and answer queries about compensation and benefits\n\u2022 Monitor key HR metrics, including time-to-fill, time-to-hire and source of hire\n\u2022 Collaborate with managers to identify future hiring needs\n\u2022 Act as a consultant to new hires and help them onboard\n\u2022 Coordinate with management and concerned units regarding the recruitment of Doctors, Nurses, Technicians, Clinic Managers and other general category staff.\n\u2022 Provide information and statistics to assist in the calculation of the KPIs and responsible for HR KPI\u2019s related to the recruitment.\n\u2022 Identifying the requirements of recruitment in the facility, new and replacements and recruit accordingly.\n\u2022 Designing and implementing recruiting systems for the organization and developing a recruitment plan.\n\u2022 Participate in the Interview panel and support in the recruitment process.\n\u2022 Executing recruitment plans efficiently.",
+            "budget": {
+                "min": "1000",
+                "max": "2000",
+                "currency": "USD"
+            },
+            "location": "Dubai",
+            "company_name": "Aestethic clinic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "employment laws and practices",
+                " database management",
+                " record keeping",
+                " computer skills",
+                " Word",
+                " Excel",
+                " sourcing techniques",
+                " Arabic",
+                " English "
+            ],
+            "extracted_text": null,
+            "job_id": 111,
+            "extracted_skills": [
+                "employment laws and practices",
+                "  database management",
+                "  record keeping",
+                "  computer skills",
+                "  Word",
+                "  Excel",
+                "  sourcing techniques",
+                "  Arabic",
+                "  English "
+            ],
+            "extracted_education": [
+                "Bachelor in human ressources"
+            ],
+            "extracted_experience": "3",
+            "extracted_responsibilities": [
+                "A Bachelor\u2019s Degree in related field or its equivalent.",
+                " Proven work experience of 2 to 3 years as a HR recruiter or similar role.",
+                " Co",
+                " ordinate with the department in chargers and the candidates regarding for the available schedule for the Interviews.",
+                " Source potential candidates from various online channels (e.g. social media and professional platforms like Indeed and Linkedin)",
+                " Screen incoming resumes and application forms",
+                " Interview candidates (via telephonic Interview",
+                " Virtual Interview and in",
+                " person)",
+                " Advertise job openings on company\u2019s careers page",
+                " social media",
+                " job boards and internally",
+                " Provide shortlists of qualified candidates to hiring managers",
+                " Send job offer emails and answer queries about compensation and benefits",
+                " Monitor key HR metrics",
+                " including time",
+                " to",
+                " fill",
+                " time",
+                " to",
+                " hire and source of hire",
+                " Collaborate with managers to identify future hiring needs",
+                " Act as a consultant to new hires and help them onboard",
+                " Coordinate with management and concerned units regarding the recruitment of Doctors",
+                " Nurses",
+                " Technicians",
+                " Clinic Managers and other general category staff.",
+                " Provide information and statistics to assist in the calculation of the KPIs and responsible for HR KPI\u2019s related to the recruitment.",
+                " Identifying the requirements of recruitment in the facility",
+                " new and replacements and recruit accordingly.",
+                " Designing and implementing recruiting systems for the organization and developing a recruitment plan.",
+                " Participate in the Interview panel and support in the recruitment process.",
+                " Executing recruitment plans efficiently."
+            ]
+        }
+    ]
+}
