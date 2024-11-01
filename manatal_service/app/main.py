@@ -91,12 +91,13 @@ def get_top_candidates(job_id: int, k: int = 5):
         {
             'rank': candidate['rank'],
             'full_name': candidate['full_name'],
-            'similarity_score': round(candidate['similarity_score'], 4),
+            'similarity_score': round(candidate['combined_score'], 4),
             'skills': candidate['skills'],
             'education': candidate['education'],
             'experience_years': candidate['experience_years'],
             'roles': candidate['roles'],
-            'location': candidate['location']
+            'location': candidate['location'],
+            'reasons': candidate['reasons']  # Adding reasons for recommendation
         }
         for candidate in top_candidates
     ]

@@ -3,6 +3,7 @@ fastapi
 flashtext
 numpy
 pydantic
+pydantic[email]
 python-dotenv
 requests
 sentence_transformers

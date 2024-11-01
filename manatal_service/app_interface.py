@@ -3,7 +3,7 @@ import requests
 import time
 import pickle
 
-# Base URL of FastAPI app
+# Base URL of your FastAPI app (update this if running on a different port)
 BASE_URL = "http://127.0.0.1:8000"
 
 st.title("Job Management and Candidate Matching Interface")
@@ -104,6 +104,7 @@ if match_candidates_button:
             data = pickle.load(f)
             total_candidates = len(data['metadata'])
         st.write(f"Total Candidates in Database: {total_candidates}")
+        
         for candidate in top_candidates:
             st.write("Rank:", candidate["rank"])
             st.write("Name:", candidate["full_name"])
@@ -113,6 +114,13 @@ if match_candidates_button:
             st.write("Experience Years:", candidate["experience_years"])
             st.write("Roles:", ", ".join(candidate["roles"]))
             st.write("Location:", candidate["location"])
+            
+            # Display the reasons for recommendation
+            if 'reasons' in candidate:
+                st.write("Reasons for Recommendation:")
+                for reason in candidate["reasons"]:
+                    st.write(f"- {reason}")
+            
             st.write("---")
     else:
         st.error(f"Failed to retrieve top candidates: {response.text}")

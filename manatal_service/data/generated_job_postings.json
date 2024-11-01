@@ -3223,14 +3223,17 @@
             "job_id": 100,
             "extracted_skills": [
                 "Communication",
-                "Teamwork",
-                "Adaptability"
+                "  Teamwork",
+                "  Adaptability"
             ],
-            "extracted_education": [],
-            "extracted_experience": 0,
+            "extracted_education": [
+                "Bachelor"
+            ],
+            "extracted_experience": "5",
             "extracted_responsibilities": [
-                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies, and be capable of working in a collaborative environment. Excellent problem",
-                "solving skills and the ability to communicate effectively are required."
+                "We are seeking an experienced Digital Transformation Consultant to join our team. The candidate should have strong knowledge of relevant tools and technologies",
+                "  and be capable of working in a collaborative environment. Excellent problem",
+                "  solving skills and the ability to communicate effectively are required."
             ]
         },
         {
@@ -3654,6 +3657,565 @@
                 " Designing and implementing recruiting systems for the organization and developing a recruitment plan.",
                 " Participate in the Interview panel and support in the recruitment process.",
                 " Executing recruitment plans efficiently."
+            ]
+        },
+        {
+            "job_title": "Senior Data Scientist ",
+            "job_description": "Set, define, and own the data science roadmap\nBuild, maintain, and enhance Manatal core features focus on\n\ufeff- CV/Resume parsing in multiple languages \n\ufeff- Candidate recommendation engine \n\ufeff- Social media enrichment for candidates \nIndependently manage each part of a project life cycle, including ad-hoc exploration, preparation of training data, model development, and production deployment \nDesign, prototype, and implement solutions across several domains \nHelp define and implement a framework of continual innovation \nPartner with engineers to develop ML projects, and maintain high system availability and reliability \nBA/BS in Mathematics, Statistics, or Computer Science is required or a Master's degree in a quantitative scientific discipline is strongly desired \n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Advanced statistical modelling",
+                " Advanced SQL",
+                " data mining",
+                " data cleaning",
+                " Python",
+                " data science",
+                " NumPy",
+                " Pandas",
+                " NLP libraries",
+                " Tensorflow",
+                " Scikit-learn",
+                " supervised",
+                " unsupervised machine learning",
+                " neural networks",
+                " decisions",
+                " trees",
+                " cloud infrastructure tools ",
+                " AWS",
+                " EC2",
+                " S3",
+                " Lambda",
+                " Data Engineering",
+                " Advanced visualization"
+            ],
+            "extracted_text": null,
+            "job_id": 112,
+            "extracted_skills": [
+                "Advanced statistical modelling",
+                " Advanced SQL",
+                " data mining",
+                " data cleaning",
+                " Python",
+                " data science",
+                " NumPy",
+                " Pandas",
+                " NLP libraries",
+                " Tensorflow",
+                " Scikit-learn",
+                " supervised",
+                " unsupervised machine learning",
+                " neural networks",
+                " decisions",
+                " trees",
+                " cloud infrastructure tools ",
+                " AWS",
+                " EC2",
+                " S3",
+                " Lambda",
+                " Data Engineering",
+                " Advanced visualization"
+            ],
+            "extracted_education": [
+                "Master's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Set, define, and own the data science roadmap",
+                "Build, maintain, and enhance Manatal core features focus on",
+                "\ufeff",
+                "CV/Resume parsing in multiple languages",
+                "\ufeff",
+                "Candidate recommendation engine",
+                "\ufeff",
+                "Social media enrichment for candidates",
+                "Independently manage each part of a project life cycle, including ad",
+                "hoc exploration, preparation of training data, model development, and production deployment",
+                "Design, prototype, and implement solutions across several domains",
+                "Help define and implement a framework of continual innovation",
+                "Partner with engineers to develop ML projects, and maintain high system availability and reliability",
+                "BA/BS in Mathematics, Statistics, or Computer Science is required or a Master's degree in a quantitative scientific discipline is strongly desired"
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "\u2022 Conduct user research to understand user needs and preferences.\n\u2022 Develop wireframes and interactive prototypes to visualize design concepts.\n\u2022 Collaborate with stakeholders and development teams to gather requirements.\n\u2022 Create user-centered designs and user interfaces that prioritize usability and accessibility.\n\u2022 Test and iterate designs based on user feedback and data insights.\n\u2022 Document design guidelines and standards for consistency.\n\u2022 Stay updated with industry standards and best practices in UX/UI design.\n\u2022 Provide design recommendations and present design concepts to stakeholders.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n\u2022 Proven experience in UX/UI design or a similar role.\n\u2022 Proficient in design tools and software.\n\u2022 Strong understanding of interaction design principles and user-centered design processes.\n\u2022 Excellent communication and presentation skills.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                " and front-end frameworks (e.g.",
+                " React",
+                " Angular",
+                " Vue.js)",
+                " Experience with design tools like Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_text": null,
+            "job_id": 113,
+            "extracted_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                " and front-end frameworks (e.g.",
+                " React",
+                " Angular",
+                " Vue.js)",
+                " Experience with design tools like Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Conduct user research to understand user needs and preferences.",
+                "Develop wireframes and interactive prototypes to visualize design concepts.",
+                "Collaborate with stakeholders and development teams to gather requirements.",
+                "Create user",
+                "centered designs and user interfaces that prioritize usability and accessibility.",
+                "Test and iterate designs based on user feedback and data insights.",
+                "Document design guidelines and standards for consistency.",
+                "Stay updated with industry standards and best practices in UX/UI design.",
+                "Provide design recommendations and present design concepts to stakeholders.",
+                "Bachelor's degree in Design, Computer Science, or a related field.",
+                "Proven experience in UX/UI design or a similar role.",
+                "Proficient in design tools and software.",
+                "Strong understanding of interaction design principles and user",
+                "centered design processes.",
+                "Excellent communication and presentation skills.",
+                "Bachelor's degree in Design, Computer Science, or a related field."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "\u2022 Conduct user research to understand user needs and preferences.\n\u2022 Develop wireframes and interactive prototypes to visualize design concepts.\n\u2022 Collaborate with stakeholders and development teams to gather requirements.\n\u2022 Create user-centered designs and user interfaces that prioritize usability and accessibility.\n\u2022 Test and iterate designs based on user feedback and data insights.\n\u2022 Document design guidelines and standards for consistency.\n\u2022 Stay updated with industry standards and best practices in UX/UI design.\n\u2022 Provide design recommendations and present design concepts to stakeholders.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n\u2022 Proven experience in UX/UI design or a similar role.\n\u2022 Proficient in design tools and software.\n\u2022 Strong understanding of interaction design principles and user-centered design processes.\n\u2022 Excellent communication and presentation skills.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_text": null,
+            "job_id": 114,
+            "extracted_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Conduct user research to understand user needs and preferences.",
+                "Develop wireframes and interactive prototypes to visualize design concepts.",
+                "Collaborate with stakeholders and development teams to gather requirements.",
+                "Create user",
+                "centered designs and user interfaces that prioritize usability and accessibility.",
+                "Test and iterate designs based on user feedback and data insights.",
+                "Document design guidelines and standards for consistency.",
+                "Stay updated with industry standards and best practices in UX/UI design.",
+                "Provide design recommendations and present design concepts to stakeholders.",
+                "Bachelor's degree in Design, Computer Science, or a related field.",
+                "Proven experience in UX/UI design or a similar role.",
+                "Proficient in design tools and software.",
+                "Strong understanding of interaction design principles and user",
+                "centered design processes.",
+                "Excellent communication and presentation skills.",
+                "Bachelor's degree in Design, Computer Science, or a related field."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "\u2022 Conduct user research to understand user needs and preferences.\n\u2022 Develop wireframes and interactive prototypes to visualize design concepts.\n\u2022 Collaborate with stakeholders and development teams to gather requirements.\n\u2022 Create user-centered designs and user interfaces that prioritize usability and accessibility.\n\u2022 Test and iterate designs based on user feedback and data insights.\n\u2022 Document design guidelines and standards for consistency.\n\u2022 Stay updated with industry standards and best practices in UX/UI design.\n\u2022 Provide design recommendations and present design concepts to stakeholders.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n\u2022 Proven experience in UX/UI design or a similar role.\n\u2022 Proficient in design tools and software.\n\u2022 Strong understanding of interaction design principles and user-centered design processes.\n\u2022 Excellent communication and presentation skills.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_text": null,
+            "job_id": 115,
+            "extracted_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Conduct user research to understand user needs and preferences.",
+                "Develop wireframes and interactive prototypes to visualize design concepts.",
+                "Collaborate with stakeholders and development teams to gather requirements.",
+                "Create user",
+                "centered designs and user interfaces that prioritize usability and accessibility.",
+                "Test and iterate designs based on user feedback and data insights.",
+                "Document design guidelines and standards for consistency.",
+                "Stay updated with industry standards and best practices in UX/UI design.",
+                "Provide design recommendations and present design concepts to stakeholders.",
+                "Bachelor's degree in Design, Computer Science, or a related field.",
+                "Proven experience in UX/UI design or a similar role.",
+                "Proficient in design tools and software.",
+                "Strong understanding of interaction design principles and user",
+                "centered design processes.",
+                "Excellent communication and presentation skills.",
+                "Bachelor's degree in Design, Computer Science, or a related field."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "\u2022 Conduct user research to understand user needs and preferences.\n\u2022 Develop wireframes and interactive prototypes to visualize design concepts.\n\u2022 Collaborate with stakeholders and development teams to gather requirements.\n\u2022 Create user-centered designs and user interfaces that prioritize usability and accessibility.\n\u2022 Test and iterate designs based on user feedback and data insights.\n\u2022 Document design guidelines and standards for consistency.\n\u2022 Stay updated with industry standards and best practices in UX/UI design.\n\u2022 Provide design recommendations and present design concepts to stakeholders.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n\u2022 Proven experience in UX/UI design or a similar role.\n\u2022 Proficient in design tools and software.\n\u2022 Strong understanding of interaction design principles and user-centered design processes.\n\u2022 Excellent communication and presentation skills.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_text": null,
+            "job_id": 116,
+            "extracted_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_education": [
+                "Other Degree",
+                "Bachelor's Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Conduct user research to understand user needs and preferences.",
+                "Develop wireframes and interactive prototypes to visualize design concepts.",
+                "Collaborate with stakeholders and development teams to gather requirements.",
+                "Create user",
+                "centered designs and user interfaces that prioritize usability and accessibility.",
+                "Test and iterate designs based on user feedback and data insights.",
+                "Document design guidelines and standards for consistency.",
+                "Stay updated with industry standards and best practices in UX/UI design.",
+                "Provide design recommendations and present design concepts to stakeholders.",
+                "Bachelor's degree in Design, Computer Science, or a related field.",
+                "Proven experience in UX/UI design or a similar role.",
+                "Proficient in design tools and software.",
+                "Strong understanding of interaction design principles and user",
+                "centered design processes.",
+                "Excellent communication and presentation skills.",
+                "Bachelor's degree in Design, Computer Science, or a related field."
+            ]
+        },
+        {
+            "job_title": "UX/UI Designer",
+            "job_description": "\u2022 Conduct user research to understand user needs and preferences.\n\u2022 Develop wireframes and interactive prototypes to visualize design concepts.\n\u2022 Collaborate with stakeholders and development teams to gather requirements.\n\u2022 Create user-centered designs and user interfaces that prioritize usability and accessibility.\n\u2022 Test and iterate designs based on user feedback and data insights.\n\u2022 Document design guidelines and standards for consistency.\n\u2022 Stay updated with industry standards and best practices in UX/UI design.\n\u2022 Provide design recommendations and present design concepts to stakeholders.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n\u2022 Proven experience in UX/UI design or a similar role.\n\u2022 Proficient in design tools and software.\n\u2022 Strong understanding of interaction design principles and user-centered design processes.\n\u2022 Excellent communication and presentation skills.\n\u2022 Bachelor's degree in Design, Computer Science, or a related field.\n",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_text": null,
+            "job_id": 117,
+            "extracted_skills": [
+                "HTML",
+                " CSS",
+                " JavaScript",
+                "  Figma",
+                " Adobe XD",
+                " Sketch"
+            ],
+            "extracted_education": [
+                "Bachelor's Degree",
+                "Other Degree"
+            ],
+            "extracted_experience": 0,
+            "extracted_responsibilities": [
+                "Conduct user research to understand user needs and preferences.",
+                "Develop wireframes and interactive prototypes to visualize design concepts.",
+                "Collaborate with stakeholders and development teams to gather requirements.",
+                "Create user",
+                "centered designs and user interfaces that prioritize usability and accessibility.",
+                "Test and iterate designs based on user feedback and data insights.",
+                "Document design guidelines and standards for consistency.",
+                "Stay updated with industry standards and best practices in UX/UI design.",
+                "Provide design recommendations and present design concepts to stakeholders.",
+                "Bachelor's degree in Design, Computer Science, or a related field.",
+                "Proven experience in UX/UI design or a similar role.",
+                "Proficient in design tools and software.",
+                "Strong understanding of interaction design principles and user",
+                "centered design processes.",
+                "Excellent communication and presentation skills.",
+                "Bachelor's degree in Design, Computer Science, or a related field."
+            ]
+        },
+        {
+            "job_title": "Junior Marketing Specialist",
+            "job_description": "\u2022 Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization\n\u2022 Aid the marketing team in the proper planning, implementation and monitoring of marketing activities\n\u2022 Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues\n\u2022 Ensure and maintain robust relationships with internal/external customers and suppliers\n\u2022 Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market\n\u2022 Follow up on requests received from local departments to ensure needs are met\n\n\u2022 Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)\n\u2022 0-2 years of experience in a similar field\n\u2022 Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                " Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_text": null,
+            "job_id": 118,
+            "extracted_skills": [
+                " Word",
+                "  Excel",
+                "  PowerPoint"
+            ],
+            "extracted_education": [
+                "Bachelor\u2019s"
+            ],
+            "extracted_experience": "2",
+            "extracted_responsibilities": [
+                "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization",
+                " Aid the marketing team in the proper planning",
+                " implementation and monitoring of marketing activities",
+                " Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues",
+                " Ensure and maintain robust relationships with internal/external customers and suppliers",
+                " Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market",
+                " Follow up on requests received from local departments to ensure needs are met",
+                " Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)",
+                " 0",
+                " 2 years of experience in a similar field",
+                " Fluency in English; Arabic is a Plus"
+            ]
+        },
+        {
+            "job_title": "Junior Marketing Specialist",
+            "job_description": "\u2022 Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization\n\u2022 Aid the marketing team in the proper planning, implementation and monitoring of marketing activities\n\u2022 Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues\n\u2022 Ensure and maintain robust relationships with internal/external customers and suppliers\n\u2022 Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market\n\u2022 Follow up on requests received from local departments to ensure needs are met\n\n\u2022 Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)\n\u2022 10 years of experience in a similar field\n\u2022 Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                " Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_text": null,
+            "job_id": 119
+        },
+        {
+            "job_title": "Junior Marketing Specialist",
+            "job_description": "\u2022 Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization\n\u2022 Aid the marketing team in the proper planning, implementation and monitoring of marketing activities\n\u2022 Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues\n\u2022 Ensure and maintain robust relationships with internal/external customers and suppliers\n\u2022 Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market\n\u2022 Follow up on requests received from local departments to ensure needs are met\n\n\u2022 Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)\n\u2022 10 years of experience in a similar field\n\u2022 Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "1000",
+                "max": "1971",
+                "currency": "USD"
+            },
+            "location": "Bangkok",
+            "company_name": "Manatal",
+            "employment_type": "Full-time",
+            "required_skills": [
+                " Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_text": null,
+            "job_id": 120,
+            "extracted_skills": [
+                " Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_education": [
+                "Other Degree"
+            ],
+            "extracted_experience": 10,
+            "extracted_responsibilities": [
+                "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization",
+                "Aid the marketing team in the proper planning, implementation and monitoring of marketing activities",
+                "Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues",
+                "Ensure and maintain robust relationships with internal/external customers and suppliers",
+                "Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market",
+                "Follow up on requests received from local departments to ensure needs are met",
+                "Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)",
+                "10 years of experience in a similar field",
+                "Fluency in English; Arabic is a Plus"
+            ]
+        },
+        {
+            "job_title": "marketing analyst",
+            "job_description": "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization, Aid the marketing team in the proper planning, implementation and monitoring of marketing activities, Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues, Ensure and maintain robust relationships with internal/external customers and suppliers, Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market, Follow up on requests received from local departments to ensure needs are met, Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS), 10 years of experience in a similar field, Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "0",
+                "max": "0",
+                "currency": "USD"
+            },
+            "location": "Dubai",
+            "company_name": "unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_text": null,
+            "job_id": 121,
+            "extracted_skills": [
+                "Word",
+                " Excel",
+                " PowerPoint"
+            ],
+            "extracted_education": [
+                "Other Degree"
+            ],
+            "extracted_experience": 10,
+            "extracted_responsibilities": [
+                "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization, Aid the marketing team in the proper planning, implementation and monitoring of marketing activities, Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues, Ensure and maintain robust relationships with internal/external customers and suppliers, Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market, Follow up on requests received from local departments to ensure needs are met, Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS), 10 years of experience in a similar field, Fluency in English; Arabic is a Plus"
+            ]
+        },
+        {
+            "job_title": "marketing analyst",
+            "job_description": "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization, Aid the marketing team in the proper planning, implementation and monitoring of marketing activities, Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues, Ensure and maintain robust relationships with internal/external customers and suppliers, Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market, Follow up on requests received from local departments to ensure needs are met, Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS), 10 years of experience in a similar field, Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "0",
+                "max": "0",
+                "currency": "USD"
+            },
+            "location": "Dubai",
+            "company_name": "unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Strategic planning",
+                " Business analysis",
+                " Data analysis"
+            ],
+            "extracted_text": null,
+            "job_id": 122,
+            "extracted_skills": [
+                "Strategic planning",
+                " Business analysis",
+                " Data analysis"
+            ],
+            "extracted_education": [
+                "Other Degree"
+            ],
+            "extracted_experience": 10,
+            "extracted_responsibilities": [
+                "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization, Aid the marketing team in the proper planning, implementation and monitoring of marketing activities, Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues, Ensure and maintain robust relationships with internal/external customers and suppliers, Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market, Follow up on requests received from local departments to ensure needs are met, Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS), 10 years of experience in a similar field, Fluency in English; Arabic is a Plus"
+            ]
+        },
+        {
+            "job_title": "marketing analyst",
+            "job_description": "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization, Aid the marketing team in the proper planning, implementation and monitoring of marketing activities, Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues, Ensure and maintain robust relationships with internal/external customers and suppliers, Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market, Follow up on requests received from local departments to ensure needs are met, Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS), 2 years of experience in a similar field, Fluency in English; Arabic is a Plus",
+            "budget": {
+                "min": "0",
+                "max": "0",
+                "currency": "USD"
+            },
+            "location": "Dubai",
+            "company_name": "unifonic",
+            "employment_type": "Full-time",
+            "required_skills": [
+                "Strategic planning",
+                " Business analysis",
+                " Data analysis"
+            ],
+            "extracted_text": null,
+            "job_id": 123,
+            "extracted_skills": [
+                "Strategic planning",
+                "  Business analysis",
+                "  Data analysis"
+            ],
+            "extracted_education": [
+                "Masters of science"
+            ],
+            "extracted_experience": "2",
+            "extracted_responsibilities": [
+                "Ensure adherence of all marketing campaigns/promotions to marketing plans and specifications set by brand owners in order to ensure regional/global brand image standardization",
+                " Aid the marketing team in the proper planning",
+                " implementation and monitoring of marketing activities",
+                " Assist in setting up and implementing a timetable of promotions and activities in support of the marketing plan aiming at maximizing consumer brand awareness and revenues",
+                " Ensure and maintain robust relationships with internal/external customers and suppliers",
+                " Stay up to date with the Market and online trends relevant to the brand for ensuring campaigns and promotions are relevant within each market",
+                " Follow up on requests received from local departments to ensure needs are met",
+                " Bachelor\u2019s Degree in Marketing or equivalent technical degree (TS)",
+                " 2 years of experience in a similar field",
+                " Fluency in English; Arabic is a Plus"
             ]
         }
     ]

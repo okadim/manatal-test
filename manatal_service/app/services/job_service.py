@@ -18,6 +18,7 @@ def load_jobs_from_json(file_path):
 
 def process_job(job_data):
     # Use existing extracted data if available
+    job_title = job_data.get('job_title')
     skills = job_data.get('extracted_skills') or extract_skills(job_data.get('job_description', ''))
     education_required = job_data.get('extracted_education') or extract_education(job_data.get('job_description', ''))
     experience_required = job_data.get('extracted_experience') or extract_experience(job_data.get('job_description', ''))
@@ -28,6 +29,7 @@ def process_job(job_data):
 
     # Return a dictionary with extracted data
     return {
+        'job_title': job_title, 
         'skills': skills,
         'education_required': normalized_education,
         'experience_required': experience_required,
