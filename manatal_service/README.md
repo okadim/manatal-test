@@ -12,7 +12,8 @@ This project consists of a FastAPI backend and a Streamlit user interface. You c
 
    Make sure you are in the root directory of the project (where the Dockerfile is located). Then, build the Docker image by running:
 ```
-   docker build -t job-matching-app .```
+   docker build -t job-matching-app .
+```
 
 
 2. **Run the Docker Container**
