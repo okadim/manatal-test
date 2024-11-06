@@ -20,7 +20,8 @@ This project consists of a FastAPI backend and a Streamlit user interface. You c
 
 After successfully building the image, run a container from it:
 ```
-docker run -p 8000:8000 -p 8501:8501 job-matching-app```
+docker run -p 8000:8000 -p 8501:8501 job-matching-app
+```
 
 This will:
 
